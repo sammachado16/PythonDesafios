@@ -1,2 +1,2 @@
 # PythonDesafios
-Desafios em Python
+Desafios em **Python** do site **HackerRank**.
